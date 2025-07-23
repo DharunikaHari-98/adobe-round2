@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "input_documents": [
+      "discover.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a literature review on Graph Neural Networks for Drug Discovery",
+    "processing_timestamp": "2025-07-23T17:09:26.314764Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "discover.pdf",
+      "page": 15,
+      "section_title": "Page 15 Section",
+      "importance_rank": 1,
+      "sub_sections": [
+        {
+          "refined_text": "(From Left to Right)\nCount Frontenac refused \nto surrender Quebec \nto the English in 1690, \nsaying: “My only reply \nwill be from the mouths \nof my cannons!”\nPierre Le Moyne, Sieur \nd’Iberville, was a great \nhero of New France, \nwinning many victories \nover the English, from \nJames Bay in the north to \nNevis in the Caribbean, \nin the late 17th and early \n18th centuries\nSir Guy Carleton (Lord \nDorchester), as Governor \nof Quebec, defended the \nrights of the Canadiens, \ndefeated an American \nmilita",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "document": "discover.pdf",
+      "page": 21,
+      "section_title": "Page 21 Section",
+      "importance_rank": 2,
+      "sub_sections": [
+        {
+          "refined_text": "The fiRST WORlD WAR\nMost Canadians were proud to be part of the \nBritish Empire. Over 7,000 volunteered to fight \nin the South African War (1899–1902), popularly \nknown as the Boer War, and over 260 died. In \n1900, Canadians took part in the battles of \nPaardeberg (“Horse Mountain”) and Lillefontein, \nvictories that strengthened national pride in \nCanada.\nWhen Germany attacked Belgium and France in \n1914 and Britain declared war, Ottawa formed the \nCanadian Expeditionary Force (later the Canadia",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "document": "discover.pdf",
+      "page": 24,
+      "section_title": "Page 24 Section",
+      "importance_rank": 3,
+      "sub_sections": [
+        {
+          "refined_text": "Toronto’s business district: Canada’s financial capital\nA medical researcher\nYour Canadian Citizenship Study Guide\nModern Canada\n24\nTRADe AND eCONOMiC GROWTh\nPostwar Canada enjoyed record prosperity and \nmaterial progress. The world’s restrictive trading \npolicies in the Depression era were opened up \nby such treaties as the General Agreement on \nTariffs and Trade (GATT), now the World Trade \nOrganization (WTO). The discovery of oil in \nAlberta in 1947 began Canada’s modern energy \nindustry. In ",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "document": "discover.pdf",
+      "page": 17,
+      "section_title": "Page 17 Section",
+      "importance_rank": 4,
+      "sub_sections": [
+        {
+          "refined_text": "In 1813, Laura Secord, \npioneer wife and mother \nof five children, made a \ndangerous 19-mile \n(30-km) journey on foot \nto warn Lieutenant James \nFitzGibbon of a planned \nAmerican attack. Her \nbravery contributed to \nvictory at the Battle of \nBeaver Dams. She is \nrecognized as a heroine to \nthis day\nThe Duke of Wellington \nsent some of his best \nsoldiers to defend \nCanada in 1814. He then \nchose Bytown (Ottawa) \nas the endpoint of the \nRideau Canal, part \nof a network of forts \nto prevent the U.S",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "document": "discover.pdf",
+      "page": 23,
+      "section_title": "Page 23 Section",
+      "importance_rank": 5,
+      "sub_sections": [
+        {
+          "refined_text": "The D-Day invasion, June 6, 1944 \nIn order to defeat Nazism and Fascism, the Allies invaded Nazi-occupied Europe. Canadians took \npart in the liberation of Italy in 1943–44. In the epic invasion of Normandy in northern France on \nJune 6, 1944, known as D-Day, 15,000 Canadian troops stormed and captured Juno Beach from the German \nArmy, a great national achievement shown in this painting by Orville Fisher. Approximately one in ten \nAllied soldiers on D-Day was Canadian. The Canadian Army liberate",
+          "page": 23
+        }
+      ]
+    }
+  ]
+}
