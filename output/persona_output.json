@@ -1,11 +1,12 @@
 {
   "metadata": {
     "input_documents": [
-      "discover.pdf"
+      "discover.pdf",
+      "file-sample_150kB.pdf"
     ],
     "persona": "PhD Researcher in Computational Biology",
     "job_to_be_done": "Prepare a literature review on Graph Neural Networks for Drug Discovery",
-    "processing_timestamp": "2025-07-23T17:09:26.314764Z"
+    "processing_timestamp": "2025-07-24T12:49:38.186313Z"
   },
   "extracted_sections": [
     {
@@ -16,7 +17,8 @@
       "sub_sections": [
         {
           "refined_text": "(From Left to Right)\nCount Frontenac refused \nto surrender Quebec \nto the English in 1690, \nsaying: “My only reply \nwill be from the mouths \nof my cannons!”\nPierre Le Moyne, Sieur \nd’Iberville, was a great \nhero of New France, \nwinning many victories \nover the English, from \nJames Bay in the north to \nNevis in the Caribbean, \nin the late 17th and early \n18th centuries\nSir Guy Carleton (Lord \nDorchester), as Governor \nof Quebec, defended the \nrights of the Canadiens, \ndefeated an American \nmilita",
-          "page": 15
+          "page": 15,
+          "score": 46.14
         }
       ]
     },
@@ -28,7 +30,8 @@
       "sub_sections": [
         {
           "refined_text": "The fiRST WORlD WAR\nMost Canadians were proud to be part of the \nBritish Empire. Over 7,000 volunteered to fight \nin the South African War (1899–1902), popularly \nknown as the Boer War, and over 260 died. In \n1900, Canadians took part in the battles of \nPaardeberg (“Horse Mountain”) and Lillefontein, \nvictories that strengthened national pride in \nCanada.\nWhen Germany attacked Belgium and France in \n1914 and Britain declared war, Ottawa formed the \nCanadian Expeditionary Force (later the Canadia",
-          "page": 21
+          "page": 21,
+          "score": 42.13
         }
       ]
     },
@@ -39,8 +42,9 @@
       "importance_rank": 3,
       "sub_sections": [
         {
-          "refined_text": "Toronto’s business district: Canada’s financial capital\nA medical researcher\nYour Canadian Citizenship Study Guide\nModern Canada\n24\nTRADe AND eCONOMiC GROWTh\nPostwar Canada enjoyed record prosperity and \nmaterial progress. The world’s restrictive trading \npolicies in the Depression era were opened up \nby such treaties as the General Agreement on \nTariffs and Trade (GATT), now the World Trade \nOrganization (WTO). The discovery of oil in \nAlberta in 1947 began Canada’s modern energy \nindustry. In ",
-          "page": 24
+          "refined_text": "Toronto’s business district: Canada’s financial capital\nA medical researcher\nYour Canadian Citizenship Study Guide\nModern Canada\n24\nTRADe AND eCONOMiC GROWTh\nPostwar Canada enjoyed record prosperity and \nmaterial progress. The world’s restrictive trading \npolicies in the Depression era were opened up \nby such treaties as the General Agreement on \nTariffs and Trade (GATT), now the World Trade \nOrganization (WTO). The discovery of oil in \nAlberta in 1947 began Canada’s modern energy \nindustry. In",
+          "page": 24,
+          "score": 40.16
         }
       ]
     },
@@ -52,7 +56,8 @@
       "sub_sections": [
         {
           "refined_text": "In 1813, Laura Secord, \npioneer wife and mother \nof five children, made a \ndangerous 19-mile \n(30-km) journey on foot \nto warn Lieutenant James \nFitzGibbon of a planned \nAmerican attack. Her \nbravery contributed to \nvictory at the Battle of \nBeaver Dams. She is \nrecognized as a heroine to \nthis day\nThe Duke of Wellington \nsent some of his best \nsoldiers to defend \nCanada in 1814. He then \nchose Bytown (Ottawa) \nas the endpoint of the \nRideau Canal, part \nof a network of forts \nto prevent the U.S",
-          "page": 17
+          "page": 17,
+          "score": 39.16
         }
       ]
     },
@@ -64,7 +69,47 @@
       "sub_sections": [
         {
           "refined_text": "The D-Day invasion, June 6, 1944 \nIn order to defeat Nazism and Fascism, the Allies invaded Nazi-occupied Europe. Canadians took \npart in the liberation of Italy in 1943–44. In the epic invasion of Normandy in northern France on \nJune 6, 1944, known as D-Day, 15,000 Canadian troops stormed and captured Juno Beach from the German \nArmy, a great national achievement shown in this painting by Orville Fisher. Approximately one in ten \nAllied soldiers on D-Day was Canadian. The Canadian Army liberate",
-          "page": 23
+          "page": 23,
+          "score": 39.15
+        }
+      ]
+    },
+    {
+      "document": "file-sample_150kB.pdf",
+      "page": 2,
+      "section_title": "Page 2 Section",
+      "importance_rank": 1,
+      "sub_sections": [
+        {
+          "refined_text": "In non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam\nest ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat\net. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis\ntristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque\nscelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam\nlobortis. Sed lobortis nisl ut eros efficitur",
+          "page": 2,
+          "score": 12.09
+        }
+      ]
+    },
+    {
+      "document": "file-sample_150kB.pdf",
+      "page": 3,
+      "section_title": "Page 3 Section",
+      "importance_rank": 2,
+      "sub_sections": [
+        {
+          "refined_text": "Lorem ipsum dolor sit amet, consectetur adipiscing \nelit. \nNunc ac faucibus odio. Vestibulum neque massa, scelerisque sit amet ligula eu, congue\nmolestie mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor\nvitae odio interdum condimentum. Vivamus dapibus sodales ex, vitae malesuada ipsum\ncursus convallis. Maecenas sed egestas nulla, ac condimentum orci. Mauris diam felis,\nvulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus",
+          "page": 3,
+          "score": 11.06
+        }
+      ]
+    },
+    {
+      "document": "file-sample_150kB.pdf",
+      "page": 1,
+      "section_title": "Page 1 Section",
+      "importance_rank": 3,
+      "sub_sections": [
+        {
+          "refined_text": "Lorem ipsum \nLorem ipsum dolor sit amet, consectetur adipiscing \nelit. Nunc ac faucibus odio. \nVestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi. Praesent ut\nvarius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor vitae odio interdum\ncondimentum.  Vivamus  dapibus  sodales  ex,  vitae  malesuada  ipsum  cursus\nconvallis. Maecenas sed egestas nulla, ac condimentum orci.  Mauris diam felis,\nvulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac lig",
+          "page": 1,
+          "score": 2.02
         }
       ]
     }

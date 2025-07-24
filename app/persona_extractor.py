@@ -44,17 +44,20 @@ def score_sections(pages, persona_job_keywords):
         ranked.append((page, combined_score))
     ranked.sort(key=lambda x: x[1], reverse=True)
     return ranked
-
 def extract_relevant_sections(pdf_path, persona_job_keywords):
     pages = extract_text_from_pdf(pdf_path)
     ranked_sections = score_sections(pages, persona_job_keywords)
 
     extracted = []
     rank = 1
-    for section, score in ranked_sections[:5]:  # Top 5 sections
+    for section, score in ranked_sections[:5]:
+        refined = section["text"][:500].strip()
+        if not refined:
+            continue
         sub_sections = [{
-            "refined_text": section["text"][:500],  # Trim long text
-            "page": section["page"]
+            "refined_text": refined,
+            "page": section["page"],
+            "score": round(score, 2)
         }]
         extracted.append({
             "document": pdf_path.split("/")[-1],
